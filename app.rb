@@ -1,0 +1,1 @@
+print "Pass this test, please."
